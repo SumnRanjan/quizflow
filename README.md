@@ -245,10 +245,6 @@ Contributions, ideas, and bug reports are welcome.
 
 ## Author
 
-**YOUR NAME**
-
--   GitHub: https://github.com/YOUR_GITHUB_USERNAME
-
 ------------------------------------------------------------------------
 
 If you find this project useful, consider giving the repository a star.
