@@ -244,7 +244,7 @@ Contributions, ideas, and bug reports are welcome.
 5.  Open a pull request.
 
 ## Author
-
+SUMAN RANJAN
 ------------------------------------------------------------------------
 
 If you find this project useful, consider giving the repository a star.
